@@ -1,0 +1,14 @@
+1.Fix country and state modify
+2.sorting columns removal latitude longitude description
+and add numeric sort on pincode
+3.delete
+4.icons in sorting
+5.home screen after modify
+6.titles add limit for characters
+7.Feedback
+8.onclick signup screen close
+9.email and phone validation
+10. check if user already exist while sign up
+11.First and last name addition
+
+
